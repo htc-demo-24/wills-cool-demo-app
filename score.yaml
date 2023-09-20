@@ -14,7 +14,7 @@ containers:
     image: # Set by pipeline
     variables:
       Hello: World
-      CoolVar: This is a demo
+      CoolVar: This is an AWESOME demo!!!!!
       DB_DATABASE: ${resources.db.name}
       DB_USER: ${resources.db.username}
       DB_PASSWORD: ${resources.db.password}
